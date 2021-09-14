@@ -1,6 +1,6 @@
  class PascalTriangle{
     public static void main(String args[]){
-         int coe=1,rows = 6;  
+         int coe=1,rows = 10;  
      for(int i = 0; i < rows; i++) {  
             for(int space = 1; space < rows - i; ++space) {  
                 System.out.print("  ");  
