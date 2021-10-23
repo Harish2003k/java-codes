@@ -7,7 +7,7 @@ class GCD
         {
             if(x%i==0 && y%i==0)
             {
-                gcd=i;
+                gcd=i;  // stroing value i in gcd 
             }
         }
         System.out.printf("GCD of %d and %d is :%d",x,y,gcd);
