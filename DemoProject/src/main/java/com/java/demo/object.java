@@ -1,9 +1,8 @@
 package com.java.demo;
-// how to create object in java programe
+      // how to create object in java programe
 class otherClass{
 	public void hello() {
 		System.out.println("hello world");
-		
 	}
 }
 class Num{
